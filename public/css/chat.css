@@ -1,0 +1,13 @@
+.link-messenger {
+  cursor: pointer;
+  width: 65px;
+  height: auto;
+  bottom: 15%;
+  right: 0;
+  position: fixed;
+  z-index: 1000;
+}
+.link-messenger img {
+  width: 100%;
+  height: auto;
+}
